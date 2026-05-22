@@ -11,16 +11,27 @@ TSR_Project/ │── TSR_tf.ipynb # Main notebook │── requirements.txt #
 Load and preprocess dataset
 
 Normalize image data
+
 Build CNN model using TensorFlow
+
 Train the model
+
 Evaluate accuracy and loss
+
 Predict traffic sign classes
 
 📈 Future Improvements
+
+
 Integration of Advanced FL Algorithms
+
 Add real-time traffic sign detection
+
 Real world dataset expansion
+
 Security Enhancement
 
 🤝 Contributing
+
+
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
