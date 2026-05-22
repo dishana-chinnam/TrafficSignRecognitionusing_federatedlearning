@@ -6,7 +6,10 @@ TSR_Project/ │── TSR_tf.ipynb # Main notebook │── requirements.txt #
 ---
 
 📊 Model Workflow
+
+
 Load and preprocess dataset
+
 Normalize image data
 Build CNN model using TensorFlow
 Train the model
